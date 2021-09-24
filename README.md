@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
 <body style="background-color:rgb(248, 202, 210)"></body>
 </head>
 <body>
