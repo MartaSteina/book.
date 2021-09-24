@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body style="background-color:rgb(248, 202, 210)"></body>
+<body style="background-color:pink"></body>
 </head>
 <h1>Tiny pretty tings</h1>
 <meta charset="UTF-8">
