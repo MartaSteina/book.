@@ -9,4 +9,4 @@
 <img src="https://m.media-amazon.com/images/M/MV5BZmY0OGIxODUtMzc2NS00OTlmLWEwZTctYzVmNmQzYjE3Njc5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg">
     <p class="solid"></p>
 </body>
-</html>
+
